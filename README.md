@@ -7,3 +7,7 @@ The eventual aim is to create a resource for learning all those soft skills and 
 For the moment though, we need to work out what topics to include. The best place to start that process is using GitHub issues. So check the [current issues](https://github.com/siwells/missing/issues) (and comment on any if neccessary). If the thing you want to learn isn't listed, then log in and add a new issue. As time allows, I'll then address suggested topics. I'll also accept pull requests from anyone who wants to contribute bug-fixes and high-quality contributions so feel free to join in.
 
 Note that this repo is mainly oriented towards students in the School of Computing at Edinburgh Napier University and their needs will take priority, but should you find anything here to be of use or of interest....
+
+## Topics
+
+* [Recording a screencast](screencasts/README.md) - Mainly because of the needs of online learning, we'll start with this.
