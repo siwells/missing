@@ -11,4 +11,5 @@ Note that this repo is mainly oriented towards students in the School of Computi
 ## Topics
 
 * [Recording a screencast](screencasts/README.md) - Mainly because of the needs of online learning, we'll start with this.
-* [Typesetting documents using LaTeX](latex/README.md) - Because being able to write nicely presented documents is important
+* [Typesetting documents using LaTeX](latex/README.md) - Because being able to write nicely presented documents is important.
+* [Using Git to manage your sourcecode](git/README.md) - Because this needs to be in your toolbox.
