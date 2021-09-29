@@ -1,6 +1,6 @@
 # The Missing Module
 
-All the things that you should know about computers but that don't get included, or covered, or fit neatly into the average software engineering or CompSci curriculum (or you're just exepcted to know). Also: idea shamelessly stolen from the [Missing Module](https://missing.csail.mit.edu/) at MIT.
+All the things that you should know about computers but that don't get included, or covered, or fit neatly into the average software engineering or CompSci curriculum (or you're just expected to know). Also: idea shamelessly stolen from the [Missing Module](https://missing.csail.mit.edu/) at MIT.
 
 The eventual aim is to create a resource for learning all those soft skills and filling in the gaps between the things that you are formally taught and those things you are just expected to pick up and learn on account of your great interest in computers and general geekery. This resource will, in the long term, include a crashcourse to get you up and running on a variety of topics such as (re-)installing an OS, creating and using a VM, setting up a web-server, learning interesting but "non-standard" languages, using VIm, using Emacs, using LaTeX, using Git, &c.
 
