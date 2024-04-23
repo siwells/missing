@@ -31,7 +31,7 @@ Each of the following is fine for recording a simple screencast:
 
 Bear in mind that whatever software you choose will likely record by default the entire screen, at maximum resolution, and with a high bitrate. This leads to large, and sometimes very large, file sizes, anything from a few megabytes up to multiple gigabytes. At least for my modules, I am perfectly happy with a lower quality screencast. For resolution,  480p, or 720p at the most, is more than sufficient.
 
-If you're interested, handbrake is a greatGUI tool for re-encoding a video file into different sizes, formats, resolutions, and bitrates. Similarly, a swiss-army knife for video encoding is FFMPEG, but this is command line only.
+If you're interested, [handbrake](https://handbrake.fr/) is a greatGUI tool for re-encoding a video file into different sizes, formats, resolutions, and bitrates. Similarly, a swiss-army knife for video encoding is [FFmpeg](https://ffmpeg.org/), but this is command line only.
 
 ## Process
 
