@@ -26,3 +26,14 @@ Each of the following is fine for recording a simple screencast:
 * Open Broadcaster Software ([OBS Studio](https://obsproject.com/)) - This runs on Linux, macOS and Windows and is your one stop shop for pretty much all your video/screen recording and live streaming needs.
 * SimpleScreenRecorder ([https://www.maartenbaert.be/simplescreenrecorder/](https://www.maartenbaert.be/simplescreenrecorder/)) - On the linked page scroll down to the download section and use the package management invokation for your platform, e.g. $ sudo apt-get install simplescreenrecorder if you're on Debian or Ubuntu.
 * Microsoft PowerPoint - If you have this installed then recent version include a screen-recording feature. See this Twitter [post/video](https://twitter.com/MicrosoftEDU/status/1253778753530089472) for more information. Ostensibly this is to enable you to record videos for embedding directly into a presentation but also includes facilities to enable you to export your screencast in various formats.
+
+## Formats & Sizes
+
+Bear in mind that whatever software you choose will likely record by default the entire screen, at maximum resolution, and with a high bitrate. This leads to large, and sometimes very large, file sizes, anything from a few megabytes up to multiple gigabytes. At least for my modules, I am perfectly happy with a lower quality screencast. For resolution,  480p, or 720p at the most, is more than sufficient.
+
+## Process
+
+* First, do a test recording. This is an opportunity to both practise what you want to say, and to see how large the resulting file will be.
+* If there's an option to reduce the bit rate, then do so. A high bit-rate is necessary for Hollywood action movies but a screencast of a web-app is mostly static in comparison.
+* 480p resolution is usually perfectly fine. I can still see the screen and read the text. Remember that I'm also iewing your live website, so the screencast visuals need not be perfect.
+* If there's an option to choose only the window in which your browser/website is running, then select just that. There's no need to record the rest of your desktop, especially if you're on a massive, high-resolution screen.
