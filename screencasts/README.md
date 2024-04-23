@@ -18,7 +18,7 @@ Screencasts are straightforward to record on most major platforms. This guide wi
 Each of the following is fine for recording a simple screencast:
 
 * Windows 10 includes the game DVR feature. You can use the "Win+G" shortcut to access the game bar and "Win+alt+R" to start/stop recording.
-* Mac OS enables screen-recording via the QuickTime Player application. Access the feature either by launching Quicktime or by using the "Cmd+Shift+5" shortcut.
+* Mac OS enables screen-recording via the QuickTime Player application. Access the feature either by launching Quicktime or by using the "Cmd+Shift+5" shortcut. Once you've recorded your screencast. Open the resulting mov file in quicktime then re-export it using the 480p option to reduce the size of your submission.
 * Linux - there is sufficient range of Linux distribution but such ease of software installation and management that we refer you to the list of installable solutions below.
 
 ### Installable solutions
