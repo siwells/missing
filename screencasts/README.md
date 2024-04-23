@@ -18,7 +18,7 @@ Screencasts are straightforward to record on most major platforms. This guide wi
 Each of the following is fine for recording a simple screencast:
 
 * Windows 10 includes the game DVR feature. You can use the "Win+G" shortcut to access the game bar and "Win+alt+R" to start/stop recording.
-* Mac OS enables screen-recording via the QuickTime Player application. Access the feature either by launching Quicktime or by using the "Cmd+Shift+5" shortcut. Once you've recorded your screencast. Open the resulting mov file in quicktime then re-export it using the 480p option to reduce the size of your submission.
+* Mac OS enables screen-recording via the QuickTime Player application. Access the feature either by launching Quicktime or by using the "Cmd+Shift+5" shortcut. Once you've recorded your screencast. Open the resulting mov file in quicktime then re-export it using the 480p option to reduce the size of your submission. You also have iMovie available to edit and encode your video if necessary.
 * Linux - there is sufficient range of Linux distribution but such ease of software installation and management that we refer you to the list of installable solutions below.
 
 ### Installable solutions
@@ -30,6 +30,8 @@ Each of the following is fine for recording a simple screencast:
 ## Formats & Sizes
 
 Bear in mind that whatever software you choose will likely record by default the entire screen, at maximum resolution, and with a high bitrate. This leads to large, and sometimes very large, file sizes, anything from a few megabytes up to multiple gigabytes. At least for my modules, I am perfectly happy with a lower quality screencast. For resolution,  480p, or 720p at the most, is more than sufficient.
+
+If you're interested, homebrew is a greatGUI tool for re-encoding a video file into different sizes, formats, resolutions, and bitrates. Similarly, a swiss-army knife for video encoding is FFMPEG, but this is command line only.
 
 ## Process
 
